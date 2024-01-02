@@ -1,0 +1,7 @@
+************* Module generated_code_46
+generated_code_46.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+generated_code_46.py:16:8: W0612: Unused variable 'i' (unused-variable)
+
+-----------------------------------
+Your code has been rated at 8.00/10
+

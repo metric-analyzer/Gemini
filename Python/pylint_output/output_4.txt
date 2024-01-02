@@ -1,0 +1,7 @@
+************* Module generated_code_4
+generated_code_4.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+generated_code_4.py:25:4: W0621: Redefining name 'mean_absolute_deviation' from outer scope (line 5) (redefined-outer-name)
+
+-----------------------------------
+Your code has been rated at 7.50/10
+

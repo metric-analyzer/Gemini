@@ -1,0 +1,7 @@
+************* Module generated_code_40
+generated_code_40.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+generated_code_40.py:12:12: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+-----------------------------------
+Your code has been rated at 8.57/10
+

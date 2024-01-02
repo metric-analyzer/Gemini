@@ -1,0 +1,14 @@
+************* Module generated_code_90
+generated_code_90.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:14:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+generated_code_90.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+generated_code_90.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+generated_code_90.py:2:18: W0621: Redefining name 'lst' from outer scope (line 25) (redefined-outer-name)
+
+-----------------------------------
+Your code has been rated at 5.26/10
+

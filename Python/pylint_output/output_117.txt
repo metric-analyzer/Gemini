@@ -1,0 +1,7 @@
+************* Module generated_code_117
+generated_code_117.py:26:0: C0305: Trailing newlines (trailing-newlines)
+generated_code_117.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+-----------------------------------
+Your code has been rated at 8.18/10
+

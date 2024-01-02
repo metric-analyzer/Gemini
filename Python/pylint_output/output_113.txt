@@ -1,0 +1,10 @@
+************* Module generated_code_113
+generated_code_113.py:12:0: C0301: Line too long (165/100) (line-too-long)
+generated_code_113.py:16:0: C0305: Trailing newlines (trailing-newlines)
+generated_code_113.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+generated_code_113.py:11:8: W0621: Redefining name 'odd_count' from outer scope (line 2) (redefined-outer-name)
+generated_code_113.py:10:8: W0612: Unused variable 'i' (unused-variable)
+
+-----------------------------------
+Your code has been rated at 2.86/10
+
